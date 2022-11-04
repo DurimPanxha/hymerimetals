@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "5069ad5083cc3f5e76a3ee7f24941003",
+  "assets/AssetManifest.json": "096fa16ebae95ba8550f96e1523104b9",
 "assets/assets/icons/Hymeri.svg": "0826735f39d4768c044b10513c8be563",
 "assets/assets/icons/HymeriLogo.svg": "bb38f13ee3b322c928783f9057d1dab2",
 "assets/assets/images/bodyphoto1.jpg": "c41553f2c17674a689bd3dab4e1923af",
@@ -20,6 +20,7 @@ const RESOURCES = {
 "assets/assets/images/pressbreak1.jpg": "5afaafa807b49d8aed7c45c136901889",
 "assets/assets/images/pressbreak2.jpg": "9b7f74ca9120d56eb8f9b30bf4c28a9e",
 "assets/assets/images/pressbreak3.jpg": "317f823cd6f32227d3d04076d60b8aaa",
+"assets/assets/images/pressbreak4.jpg": "ad5e29d429fdf577135263e33a175c6d",
 "assets/assets/images/solar.jpg": "09c989974a0e6a50e78bfb1cfc34fdb7",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
@@ -565,9 +566,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "7d9eb149301928b2c5af20689b442ec3",
-"/": "7d9eb149301928b2c5af20689b442ec3",
-"main.dart.js": "256c7d97a78574f8d8c8e894d02ec413",
+"index.html": "156f9f890c9205ebdcfbe65c8e3d63b8",
+"/": "156f9f890c9205ebdcfbe65c8e3d63b8",
+"main.dart.js": "6937f4cb8c00530d8427d2aff75360d1",
 "manifest.json": "c8ec16a7b7ea08980174c9869dc73d29",
 "version.json": "2137825fa53470a85c93c177cef1e7f3"
 };
