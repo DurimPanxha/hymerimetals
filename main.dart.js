@@ -61581,7 +61581,7 @@ A.a8g.prototype={
 $0(){return A.k7(this.a).ow()},
 $S:0}
 A.a8j.prototype={
-$0(){return A.hm("tel://21213123123")},
+$0(){return A.hm("tel://+38349757575")},
 $S:0}
 A.no.prototype={
 a6(){return new A.M_(B.m)}}
